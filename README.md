@@ -33,6 +33,6 @@ O repositório reúne códigos, exercícios e projetos desenvolvidos durante os 
 - [GitHub](https://github.com/LucasGuima04)
 - [LinkedIn](https://www.linkedin.com/in/lucas-guimaraes-13718833a/)
 
----
+--
 
 📖 *Repositório dedicado ao aprendizado e à prática de desenvolvimento web.*
